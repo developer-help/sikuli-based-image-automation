@@ -1,0 +1,1 @@
+# sikuli-based-image-automation
