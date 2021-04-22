@@ -3,6 +3,9 @@ Source code Repo link
 
 https://github.com/developer-help/sikuli-based-image-automation
 
+Youtube link 
+https://youtu.be/zwyJbRJ5UZM
+
 1. Create a maven project from command line with default archetype
 
 mvn archetype:generate -DgroupId=com.help.auto -DartifactId=siku 
